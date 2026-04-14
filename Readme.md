@@ -4,7 +4,7 @@
 
 Build elite, high-performance intelligence experiences using the **LOQOOAI .NET SDK**. Supported on all modern platforms and frameworks, including **Unity**, **Godot 4.6+**, and **MAUI**.
 
-LOQOOAI provides flexible APIs for AI event streaming. Utilizing LOQOO’s globally distributed intelligence platform, your applications benefit from a highly performant, reliable, and hardware-accelerated infrastructure.
+LOQOOAI provides flexible APIs for AI event streaming. Utilizing LOQOO intelligence platform, your applications benefit from a highly performant, reliable, and local hardware-accelerated infrastructure.
 
 Find out more:
 * [LOQOOAI  Docs](https://loqoo.ai/docs/basics)
